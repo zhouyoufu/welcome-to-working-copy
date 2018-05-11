@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Anders Borum
+N;CHARSET=UTF-8:Anders Borum;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;Borgmester Jensens Alle 31D 3.2;København Ø;;2100;Den
+ mark
+EMAIL:mailchimp@workingcopyapp.com
+ORG;CHARSET=UTF-8:Working Copy
+URL:https://WorkingCopyApp.com/
+END:VCARD
